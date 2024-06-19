@@ -1,2 +1,7 @@
 안녕하세요 test1
 안녕하세요 test1
+
+git commit -m "third commit"
+git commit -m "third commit"
+git commit -m "third commit"
+git commit -m "third commit"
